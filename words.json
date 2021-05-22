@@ -1,0 +1,142 @@
+{
+    "0": {
+        "DE": "hallo",
+        "ENG": "hello",
+        "NL": "hallo"
+    },
+    "1": {
+        "DE": "wort",
+        "ENG": "word",
+        "NL": "woord"
+    },
+    "10": {
+        "DE": "Brief",
+        "ENG": "letter",
+        "NL": "brief"
+    },
+    "11": {
+        "DE": "Freund",
+        "ENG": "friend",
+        "NL": "vriend"
+    },
+    "12": {
+        "DE": "Taschenrechner",
+        "ENG": "calculator",
+        "NL": "rekenmachine"
+    },
+    "13": {
+        "DE": "Schule",
+        "ENG": "school",
+        "NL": "school"
+    },
+    "14": {
+        "DE": "Klassenzimmer",
+        "ENG": "classroom",
+        "NL": "klaslokaal"
+    },
+    "15": {
+        "DE": "Quittungen",
+        "ENG": "coupons",
+        "NL": "bonnen"
+    },
+    "16": {
+        "DE": "publiek",
+        "ENG": "public",
+        "NL": "publiek"
+    },
+    "17": {
+        "DE": "Platz",
+        "ENG": "place",
+        "NL": "plaats"
+    },
+    "18": {
+        "DE": "Wurzel",
+        "ENG": "carrot",
+        "NL": "wortel"
+    },
+    "19": {
+        "DE": "Schaf",
+        "ENG": "sheep",
+        "NL": "schaap"
+    },
+    "2": {
+        "DE": "fuhr",
+        "ENG": "fire",
+        "NL": "vuur"
+    },
+    "20": {
+        "DE": "Soße",
+        "ENG": "sauce",
+        "NL": "saus"
+    },
+    "21": {
+        "DE": "Markt",
+        "ENG": "market",
+        "NL": "markt"
+    },
+    "22": {
+        "DE": "Mädchen",
+        "ENG": "girl",
+        "NL": "meisje"
+    },
+    "23": {
+        "DE": "Inhaber",
+        "ENG": "owner",
+        "NL": "eigenaar"
+    },
+    "24": {
+        "DE": "Katze",
+        "ENG": "cat",
+        "NL": "kat"
+    },
+    "25": {
+        "DE": "Dreieck",
+        "ENG": "triangle",
+        "NL": "driehoek"
+    },
+    "26": {
+        "DE": "Esel",
+        "ENG": "donkey",
+        "NL": "ezel"
+    },
+    "27": {
+        "DE": "Satellit",
+        "ENG": "satellite",
+        "NL": "sateliet"
+    },
+    "28": {
+        "DE": "ausleihen",
+        "ENG": "borrow",
+        "NL": "lenen"
+    },
+    "3": {
+        "DE": "Eis",
+        "ENG": "ice",
+        "NL": "ijs"
+    },
+    "5": {
+        "DE": "Boden",
+        "ENG": "ground",
+        "NL": "grond"
+    },
+    "6": {
+        "DE": "geburtstag",
+        "ENG": "birthday",
+        "NL": "verjaardag"
+    },
+    "7": {
+        "DE": "apfel",
+        "ENG": "apple",
+        "NL": "appel"
+    },
+    "8": {
+        "DE": "kase",
+        "ENG": "cheese",
+        "NL": "kaas"
+    },
+    "9": {
+        "DE": "Kohle",
+        "ENG": "coal",
+        "NL": "steenkool"
+    }
+}
